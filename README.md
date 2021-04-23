@@ -1,1 +1,1 @@
-# Proiva-de-Estat-stica
+# Prova-de-Estatistica
